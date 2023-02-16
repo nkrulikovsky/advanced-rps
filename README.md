@@ -4,10 +4,22 @@ This project demonstrates a basic Hardhat use case. It comes with a sample contr
 
 Try running some of the following tasks:
 
+## Getting started!
+
+- install projects
+
 ```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
+npm install
+```
+
+- run hardhat node
+
+```shell
+npm start
+```
+
+- run frontend
+
+```shell
+npm run start:frontend
 ```
